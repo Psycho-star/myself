@@ -1,0 +1,41 @@
+body{
+    font-family: 'Alegreya', serif;
+}
+body{
+    background-image: url('flower.jpg');
+    background-size: cover;
+    margin: 0;
+}
+.first{
+    font-size: 1.25rem;
+    margin: 1%;
+    padding: 3%;
+    text-align: left;
+    background: rgba(181, 107, 224, 0.5);
+    border-radius: 50px;
+}
+h2{
+    opacity: 1;
+    text-align: center;
+    margin: 0;
+    font-size: 2.5rem;
+}
+.comp{
+    opacity: 1;
+    position: relative;
+    float: right;
+    height:20rem;
+    border-radius: 50%;
+    margin: auto 0;
+}
+.home{
+    position: fixed;
+    height: 7.5%;
+    width: inherit;
+    left: 0%;
+}
+.home:hover{
+    transition: 0.5s;
+    height: 10%;
+    width: inherit;
+}

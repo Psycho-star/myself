@@ -1,0 +1,98 @@
+.mountain{
+    width: 100%;
+}
+.link{
+    position: fixed;
+    height: 7.5%;
+    width: inherit;
+}
+.link:hover{
+    transition: 0.5s;
+    height: 10%;
+    width: inherit;
+}
+.linkedln{
+    right: 0%;
+}
+.insta{
+    top: 10%;
+    right: 0%;
+}
+.form{
+    left: 0%;
+}
+.mail{
+    right: 0%;
+    top: 20%;
+}
+.name{
+    color: #66BFBF;
+    font-size: 70px;
+    font-family: 'Tangerine', cursive;
+    margin: 0%;
+}
+div{
+    background-color: azure;
+}
+body{
+    font-size: 25px;
+    margin: 0%;
+    position: absolute;
+    text-align: center;
+    font-family: 'Alegreya', serif;
+}
+.top{
+    width: 100%;
+    padding-top: 40px;
+}
+.upcloud{
+    display: inline-block;
+    position: relative;
+    left: 20%;
+    height: 90px;
+}
+hr {
+    border-color: blue;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 20%;
+}
+.midcloud{
+    display: inline-block;
+    position: relative;
+    right: 30%;
+    top: 40px;
+}
+h2{
+    font-size: 200%;
+    color: lightcoral;
+    font-family: 'Niconne', cursive;
+}
+h3{
+    color:#7868E6 ;
+}
+p{
+    margin: 0;
+}
+.mypic{
+    height: 360px;
+    width: 360px;
+    border-radius: 50%;
+}
+.skill-row{
+    text-align: left;
+    width:50%;
+    margin: 100px auto;
+    font-weight: 2;
+}
+.igc{
+    float: left;
+    width: 30%;
+    margin-right: 30px;
+}
+.igs{
+    float: right;
+    width: 30%;
+    margin-left: 30px;
+}
